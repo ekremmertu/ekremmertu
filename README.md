@@ -4,7 +4,7 @@ I build products that ship. iOS apps on the App Store, web platforms taking live
 payments, trading systems validated walk-forward, and AI agents that produce
 actual work.
 
-**34** products built · **8** live in production · **5** disciplines · shipping since **2025**
+**34** products built · **8** live in production · **5** disciplines · shipping since **2024**
 
 → [corvus-tech.co](https://corvus-tech.co)
 
