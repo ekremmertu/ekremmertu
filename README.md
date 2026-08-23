@@ -8,6 +8,18 @@ actual work.
 
 → [corvus-tech.co](https://corvus-tech.co)
 
+### AI, in practice
+
+Not "I use ChatGPT" — I build the harness around the model.
+
+| | |
+|---|---|
+| **Multi-agent systems** | Panels of specialist agents that argue a decision through to a recommendation. Each gets its own brief, its own tools and its own scoring, and the disagreement between them is the product — not a bug to smooth over. |
+| **MCP servers** | Custom tool servers that let a model *drive* real software — charts, build systems, design tools — instead of describing what it would do if it could. |
+| **Agent workflows** | Long-running pipelines with checkpoints, retries and state that survives a restart. Research → draft → verify → publish, unattended, on a schedule. |
+| **Prompt engineering** | Prompts as specifications, not incantations: explicit contracts, structured output, adversarial verification passes, and evaluation instead of vibes. |
+| **Browser & desktop automation** | Driving real applications through CDP and native scripting when there is no API — see the LinkedIn cleaner below. |
+
 ### Live
 
 | | |
@@ -23,7 +35,7 @@ actual work.
 
 ### Stack
 
-Swift 6 · SwiftUI · StoreKit 2 · Next.js · TypeScript · Supabase · FastAPI · Python · Pine Script · Three.js
+Swift 6 · SwiftUI · StoreKit 2 · Next.js · TypeScript · Supabase · FastAPI · Python · Claude API · MCP · Pine Script · Three.js
 
 ---
 
@@ -36,6 +48,18 @@ web platformları, walk-forward doğrulanmış trading sistemleri ve gerçekten 
 **34** kurulan ürün · **8** canlıda · **5** disiplin · **2025**'ten beri yayında
 
 → [corvus-tech.co](https://corvus-tech.co/tr)
+
+### Pratikte yapay zekâ
+
+"AI kullanıyorum" değil — modelin etrafındaki düzeneği kuruyorum.
+
+| | |
+|---|---|
+| **Çok ajanlı sistemler** | Bir kararı tartışıp önerinin dibine kadar giden uzman ajan kurulları. Her ajanın kendi görev tanımı, kendi araçları ve kendi puanlaması var; aralarındaki anlaşmazlık örtülecek bir kusur değil, işin ta kendisi. |
+| **MCP sunucuları** | Modelin gerçek yazılımı *kullanmasını* sağlayan araç sunucuları — grafik, derleme, tasarım. "Yapabilseydim şunu yapardım" demesi değil, yapması. |
+| **Ajan iş akışları** | Kontrol noktalı, yeniden denemeli ve yeniden başlatmaya dayanan uzun soluklu hatlar. Araştır → yaz → doğrula → yayınla; başında kimse olmadan, saatli. |
+| **Prompt mühendisliği** | Prompt bir büyü değil, bir şartname: açık sözleşmeler, yapılandırılmış çıktı, karşı-savunma doğrulama turları ve "iyi hissettirdi" yerine ölçüm. |
+| **Tarayıcı ve masaüstü otomasyonu** | API olmadığında gerçek uygulamaları CDP ve yerel betiklerle sürmek — aşağıdaki LinkedIn temizleyici gibi. |
 
 ### Yayında
 
@@ -52,4 +76,4 @@ web platformları, walk-forward doğrulanmış trading sistemleri ve gerçekten 
 
 ### Teknolojiler
 
-Swift 6 · SwiftUI · StoreKit 2 · Next.js · TypeScript · Supabase · FastAPI · Python · Pine Script · Three.js
+Swift 6 · SwiftUI · StoreKit 2 · Next.js · TypeScript · Supabase · FastAPI · Python · Claude API · MCP · Pine Script · Three.js
