@@ -1,3 +1,22 @@
+<div align="center">
+
+# Ekrem Mert
+
+**Founder @ Corvus Tech** — I build products that ship.
+
+[![Website](https://img.shields.io/badge/corvus--tech.co-0A0A0A?style=for-the-badge&logo=safari&logoColor=white)](https://corvus-tech.co)
+[![CVtoapply](https://img.shields.io/badge/CVtoapply-2563EB?style=for-the-badge&logo=readdotcv&logoColor=white)](https://cvtoapply.co)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/tr/app/cvtoapply-ats-resume-score/id6790497658)
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ekremmertu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com?user=ekremmertu&hide_border=true&theme=transparent" height="165" alt="Streak" />
+
+</div>
+
+---
+
 ## Corvus Tech — product studio, Istanbul
 
 I build products that ship. iOS apps on the App Store, web platforms taking live
@@ -32,6 +51,7 @@ Not "I use ChatGPT" — I build the harness around the model.
 | | |
 |---|---|
 | [linkedin-post-cleaner](https://github.com/ekremmertu/linkedin-post-cleaner) | Bulk-deletes your own LinkedIn posts and actually reaches the end of the list. Other tools stop at ~500 because the feed quietly stops refilling; this one reloads and resumes. Proven on 1,200+ real deletions. |
+| [corvus-site](https://github.com/ekremmertu/corvus-site) | The source of [corvus-tech.co](https://corvus-tech.co) — a bilingual 3D portfolio built with Next.js and Three.js. |
 
 ### Stack
 
@@ -73,6 +93,7 @@ web platformları, walk-forward doğrulanmış trading sistemleri ve gerçekten 
 | | |
 |---|---|
 | [linkedin-post-cleaner](https://github.com/ekremmertu/linkedin-post-cleaner) | LinkedIn'deki kendi gönderilerini topluca siler ve listenin gerçekten sonuna kadar gider. Diğer araçlar ~500'de duruyor çünkü akış sessizce beslemeyi bırakıyor; bu, sayfayı yenileyip kaldığı yerden devam ediyor. 1200'den fazla gerçek silmeyle denendi. |
+| [corvus-site](https://github.com/ekremmertu/corvus-site) | [corvus-tech.co](https://corvus-tech.co/tr)'nun kaynak kodu — Next.js ve Three.js ile kurulmuş iki dilli 3D portfolyo. |
 
 ### Teknolojiler
 
