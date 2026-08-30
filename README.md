@@ -47,6 +47,21 @@ approvals, live payments, real users. Nothing ships until it clears my quality b
 One operator, an AI team, 34 shipped products. That is the skill this profile is
 actually showing.
 
+### The team at Corvus Tech
+
+Corvus Tech is not a one-man show — it runs on a team I built myself: specialist
+AI agents, each recruited for one job and held accountable for it.
+
+| | |
+|---|---|
+| **QA Grandmaster** | Maps every user flow of an iOS app and tests it tap by tap on a real simulator before anything reaches review. |
+| **Motion Director** | Owns the motion identity across web, iOS and video — nothing animates without a reason. |
+| **Growth Partner** | Stress-tests every feature with startup math: MVP scope, burn rate, LTV against CAC. No numbers, no meeting. |
+| **Design Pipeline** | A five-stage chain — strategy, copy, UI, visual direction, code — that turns a one-line brief into a production-ready section. |
+
+I write their job descriptions, brief them, review their output, and replace them
+when they underperform. Like any team — just better documented.
+
 ### AI, in practice
 
 Not "I use ChatGPT" — I build the harness around the model.
@@ -102,6 +117,21 @@ onayları, canlı ödemeler, gerçek kullanıcılar. Kalite çıtamı geçmeyen 
 yayına çıkmaz.
 
 Tek operatör, bir AI ekibi, 34 yayınlanmış ürün. Bu profilin asıl gösterdiği beceri bu.
+
+### Corvus Tech'in ekibi
+
+Corvus Tech tek kişilik bir gösteri değil — kendi kurduğum bir ekiple çalışır:
+her biri tek bir iş için işe alınmış ve o işten sorumlu tutulan uzman AI ajanları.
+
+| | |
+|---|---|
+| **QA Büyükustası** | Bir iOS uygulamasının bütün kullanıcı akışlarını haritalar ve yayına gitmeden önce simülatörde dokunuş dokunuş test eder. |
+| **Motion Yönetmeni** | Web, iOS ve videodaki hareket kimliğinin sahibi — sebepsiz hiçbir şey animasyon almaz. |
+| **Büyüme Ortağı** | Her özelliği startup matematiğiyle sorgular: MVP kapsamı, burn rate, LTV–CAC dengesi. Rakam yoksa toplantı da yok. |
+| **Tasarım Hattı** | Strateji, metin, arayüz, görsel yönetim, kod — beş aşamalı zincir; tek satırlık brief'i yayına hazır bölüme çevirir. |
+
+İş tanımlarını ben yazarım, brief'i ben veririm, çıktıyı ben denetlerim — ve
+yetersiz kalanı değiştiririm. Her ekip gibi; sadece daha iyi dokümante edilmiş.
 
 ### Pratikte yapay zekâ
 
