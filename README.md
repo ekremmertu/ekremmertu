@@ -33,6 +33,20 @@ actual work.
 
 → [corvus-tech.co](https://corvus-tech.co)
 
+### How I build
+
+I'm not a classically trained engineer, and I don't pretend to be. My background is
+commercial operations and supply chain; my craft is **directing AI** — and managing
+every product end to end, the way a project should be managed.
+
+I own the full cycle: product definition, MVP scoping, flow design, development by
+AI agents under my direction, QA, store review, release, and live operations.
+I don't review syntax; I review outcomes — passing tests, clean builds, App Store
+approvals, live payments, real users. Nothing ships until it clears my quality bar.
+
+One operator, an AI team, 34 shipped products. That is the skill this profile is
+actually showing.
+
 ### AI, in practice
 
 Not "I use ChatGPT" — I build the harness around the model.
@@ -74,6 +88,20 @@ web platformları, walk-forward doğrulanmış trading sistemleri ve gerçekten 
 **34** kurulan ürün · **8** canlıda · **5** disiplin · **2024**'ten beri yayında
 
 → [corvus-tech.co](https://corvus-tech.co/tr)
+
+### Nasıl inşa ediyorum
+
+Klasik eğitimden geçmiş bir mühendis değilim ve öyleymiş gibi de yapmıyorum.
+Geçmişim ticari operasyon ve tedarik zinciri; zanaatım **AI'ı yönetmek** — ve her
+ürünü, bir projenin yönetilmesi gerektiği gibi uçtan uca yönetmek.
+
+Döngünün tamamı bende: ürün tanımı, MVP kapsamı, akış tasarımı, yönetimimdeki AI
+ajanlarıyla geliştirme, QA, mağaza incelemesi, yayına alma ve canlı operasyon.
+Satır satır kod değil, sonuç denetlerim — geçen testler, temiz build'ler, App Store
+onayları, canlı ödemeler, gerçek kullanıcılar. Kalite çıtamı geçmeyen hiçbir şey
+yayına çıkmaz.
+
+Tek operatör, bir AI ekibi, 34 yayınlanmış ürün. Bu profilin asıl gösterdiği beceri bu.
 
 ### Pratikte yapay zekâ
 
