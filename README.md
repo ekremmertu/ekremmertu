@@ -10,7 +10,6 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ekremmertu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub stats" />
 <img src="https://streak-stats.demolab.com?user=ekremmertu&hide_border=true&theme=transparent" height="165" alt="Streak" />
 
 <br><br>
