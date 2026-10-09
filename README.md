@@ -29,7 +29,7 @@ I build products that ship. iOS apps on the App Store, web platforms taking live
 payments, trading systems validated walk-forward, and AI agents that produce
 actual work.
 
-**34** products built · **8** live in production · **5** disciplines · shipping since **2024**
+**34** products built · **8** live in production · **5** disciplines · shipping since **2021**
 
 → [corvus-tech.co](https://corvus-tech.co)
 
@@ -100,7 +100,7 @@ Yayına çıkan ürünler kuruyorum. App Store'da iOS uygulamaları, canlı öde
 web platformları, walk-forward doğrulanmış trading sistemleri ve gerçekten iş
 üreten AI ajanları.
 
-**34** kurulan ürün · **8** canlıda · **5** disiplin · **2024**'ten beri yayında
+**34** kurulan ürün · **8** canlıda · **5** disiplin · **2021**'den beri yayında
 
 → [corvus-tech.co](https://corvus-tech.co/tr)
 
