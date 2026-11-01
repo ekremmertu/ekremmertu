@@ -21,7 +21,7 @@ Founder of [Corvus Tech](https://corvus-tech.co), Istanbul. My background is com
 |---|---|---|
 | [delete-all-linkedin-posts](https://github.com/ekremmertu/delete-all-linkedin-posts) | Chrome extension that reloads the page to get past the ~500 post feed limit. Tested end to end in real Chromium against a simulated feed. | [![tests](https://github.com/ekremmertu/delete-all-linkedin-posts/actions/workflows/test.yml/badge.svg)](https://github.com/ekremmertu/delete-all-linkedin-posts/actions/workflows/test.yml) |
 | [ring-light-windows](https://github.com/ekremmertu/ring-light-windows) | Windows desktop app in Python, with logic and rendering tests and automated releases. | [![build](https://github.com/ekremmertu/ring-light-windows/actions/workflows/build.yml/badge.svg)](https://github.com/ekremmertu/ring-light-windows/actions/workflows/build.yml) |
-| [corvus-site](https://github.com/ekremmertu/corvus-site) | The production source of my bilingual Next.js portfolio. Lint and production build run on every push. | [![ci](https://github.com/ekremmertu/corvus-site/actions/workflows/ci.yml/badge.svg)](https://github.com/ekremmertu/corvus-site/actions/workflows/ci.yml) |
+| [corvus-site](https://github.com/ekremmertu/corvus-site) | The production source of my bilingual Next.js portfolio. Lint, production build and page tests run on every push. | [![ci](https://github.com/ekremmertu/corvus-site/actions/workflows/ci.yml/badge.svg)](https://github.com/ekremmertu/corvus-site/actions/workflows/ci.yml) |
 
 ## How I work
 
