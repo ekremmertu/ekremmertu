@@ -1,164 +1,35 @@
-<div align="center">
-
 # Ekrem Mert
 
-**Founder @ Corvus Tech** — I build products that ship.
+**I take products from idea to live release by directing AI agents, then I verify the result like an operator.**
 
-[![Website](https://img.shields.io/badge/corvus--tech.co-0A0A0A?style=for-the-badge&logo=safari&logoColor=white)](https://corvus-tech.co)
-[![CVtoapply](https://img.shields.io/badge/CVtoapply-2563EB?style=for-the-badge&logo=readdotcv&logoColor=white)](https://cvtoapply.co)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/tr/app/cvtoapply-ats-resume-score/id6790497658)
+Founder of [Corvus Tech](https://corvus-tech.co), Istanbul. My background is commercial operations and supply chain, so I start with what the business needs and how we will know it worked.
 
-<br>
+[Portfolio](https://corvus-tech.co) · [Türkçe](README.tr.md)
 
-<img src="https://streak-stats.demolab.com?user=ekremmertu&hide_border=true&theme=transparent" height="165" alt="Streak" />
+## Check the work
 
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ekremmertu/ekremmertu/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/ekremmertu/ekremmertu/output/github-snake.svg" alt="contribution snake" />
-</picture>
-
-</div>
-
----
-
-## Corvus Tech — product studio, Istanbul
-
-I build products that ship. iOS apps on the App Store, web platforms taking live
-payments, trading systems validated walk-forward, and AI agents that produce
-actual work.
-
-**34** products built · **8** live in production · **5** disciplines · shipping since **2021**
-
-→ [corvus-tech.co](https://corvus-tech.co)
-
-### How I build
-
-I'm not a classically trained engineer, and I don't pretend to be. My background is
-commercial operations and supply chain; my craft is **directing AI** — and managing
-every product end to end, the way a project should be managed.
-
-I own the full cycle: product definition, MVP scoping, flow design, development by
-AI agents under my direction, QA, store review, release, and live operations.
-I don't review syntax; I review outcomes — passing tests, clean builds, App Store
-approvals, live payments, real users. Nothing ships until it clears my quality bar.
-
-One operator, an AI team, 34 shipped products. That is the skill this profile is
-actually showing.
-
-### The team at Corvus Tech
-
-Corvus Tech is not a one-man show — it runs on a team I built myself: specialist
-AI agents, each recruited for one job and held accountable for it.
-
-| | |
+| Evidence | Where to look |
 |---|---|
-| **QA Grandmaster** | Maps every user flow of an iOS app and tests it tap by tap on a real simulator before anything reaches review. |
-| **Motion Director** | Owns the motion identity across web, iOS and video — nothing animates without a reason. |
-| **Growth Partner** | Stress-tests every feature with startup math: MVP scope, burn rate, LTV against CAC. No numbers, no meeting. |
-| **Design Pipeline** | A five-stage chain — strategy, copy, UI, visual direction, code — that turns a one-line brief into a production-ready section. |
+| **7 iOS apps on the App Store** | [TripWalkers](https://apps.apple.com/tr/app/tripwalkers/id6764424121) · [CVtoapply](https://apps.apple.com/tr/app/id6790497658) · [Lingoria](https://apps.apple.com/tr/app/id6769572261) · [BlokBom!](https://apps.apple.com/tr/app/id6787959211) · [Quill](https://apps.apple.com/tr/app/id6768395513) · [SplitTable](https://apps.apple.com/tr/app/splittable/id6791679838) · [SplitTable Manager](https://apps.apple.com/tr/app/splittable-manager/id6791680241) |
+| **Live web products** | [cvtoapply.co](https://cvtoapply.co) · [corvus-tech.co](https://corvus-tech.co) |
+| **Open code with passing checks** | The three repositories below |
+| **Full portfolio** | [34 projects, 19 live](https://corvus-tech.co), with what each one does |
 
-I write their job descriptions, brief them, review their output, and replace them
-when they underperform. Like any team — just better documented.
+## Read the code
 
-### AI, in practice
+| Project | What it proves | Checks |
+|---|---|---|
+| [delete-all-linkedin-posts](https://github.com/ekremmertu/delete-all-linkedin-posts) | Chrome extension that finds why other tools stop at ~500 posts and works past it. Tested end to end in real Chromium. | [![tests](https://github.com/ekremmertu/delete-all-linkedin-posts/actions/workflows/test.yml/badge.svg)](https://github.com/ekremmertu/delete-all-linkedin-posts/actions/workflows/test.yml) |
+| [ring-light-windows](https://github.com/ekremmertu/ring-light-windows) | Windows desktop app in Python, with logic and rendering tests and automated releases. | [![build](https://github.com/ekremmertu/ring-light-windows/actions/workflows/build.yml/badge.svg)](https://github.com/ekremmertu/ring-light-windows/actions/workflows/build.yml) |
+| [corvus-site](https://github.com/ekremmertu/corvus-site) | The production source of my bilingual Next.js portfolio. | [![ci](https://github.com/ekremmertu/corvus-site/actions/workflows/ci.yml/badge.svg)](https://github.com/ekremmertu/corvus-site/actions/workflows/ci.yml) |
 
-Not "I use ChatGPT" — I build the harness around the model.
+## How I work
 
-| | |
-|---|---|
-| **Multi-agent systems** | Panels of specialist agents that argue a decision through to a recommendation. Each gets its own brief, its own tools and its own scoring, and the disagreement between them is the product — not a bug to smooth over. |
-| **MCP servers** | Custom tool servers that let a model *drive* real software — charts, build systems, design tools — instead of describing what it would do if it could. |
-| **Agent workflows** | Long-running pipelines with checkpoints, retries and state that survives a restart. Research → draft → verify → publish, unattended, on a schedule. |
-| **Prompt engineering** | Prompts as specifications, not incantations: explicit contracts, structured output, adversarial verification passes, and evaluation instead of vibes. |
-| **Browser & desktop automation** | Driving real applications through CDP and native scripting when there is no API — see the LinkedIn cleaner below. |
+- **I own the full cycle:** product definition, scope, flows, QA, store review, release and live operations.
+- **AI agents write most of my code.** I am not a classically trained engineer and I don't claim to be. I write the brief, set the checks and decide what ships.
+- **I judge by evidence:** tests, builds, store approvals and how the product behaves live.
+- **I build the system around the model:** specialist agents, custom MCP tools and automated QA that drive real software.
 
-### Live
+Most of my 800+ contributions from the past year are in private product repositories. I'm happy to walk through that work in an interview.
 
-| | |
-|---|---|
-| [CVtoapply](https://cvtoapply.co) | Rewrites your CV for the job you are actually applying to, and scores it the way an ATS would. Web + [iOS](https://apps.apple.com/tr/app/cvtoapply-ats-resume-score/id6790497658). |
-| [corvus-tech.co](https://corvus-tech.co) | The studio itself — a 3D portfolio in English and Turkish. |
-
-### Open source
-
-| | |
-|---|---|
-| [linkedin-post-cleaner](https://github.com/ekremmertu/linkedin-post-cleaner) | Bulk-deletes your own LinkedIn posts and actually reaches the end of the list. Other tools stop at ~500 because the feed quietly stops refilling; this one reloads and resumes. Proven on 1,200+ real deletions. |
-| [corvus-site](https://github.com/ekremmertu/corvus-site) | The source of [corvus-tech.co](https://corvus-tech.co) — a bilingual 3D portfolio built with Next.js and Three.js. |
-
-### Stack
-
-Swift 6 · SwiftUI · StoreKit 2 · Next.js · TypeScript · Supabase · FastAPI · Python · Claude API · MCP · Pine Script · Three.js
-
----
-
-## Corvus Tech — ürün stüdyosu, İstanbul
-
-Yayına çıkan ürünler kuruyorum. App Store'da iOS uygulamaları, canlı ödeme alan
-web platformları, walk-forward doğrulanmış trading sistemleri ve gerçekten iş
-üreten AI ajanları.
-
-**34** kurulan ürün · **8** canlıda · **5** disiplin · **2021**'den beri yayında
-
-→ [corvus-tech.co](https://corvus-tech.co/tr)
-
-### Nasıl inşa ediyorum
-
-Klasik eğitimden geçmiş bir mühendis değilim ve öyleymiş gibi de yapmıyorum.
-Geçmişim ticari operasyon ve tedarik zinciri; zanaatım **AI'ı yönetmek** — ve her
-ürünü, bir projenin yönetilmesi gerektiği gibi uçtan uca yönetmek.
-
-Döngünün tamamı bende: ürün tanımı, MVP kapsamı, akış tasarımı, yönetimimdeki AI
-ajanlarıyla geliştirme, QA, mağaza incelemesi, yayına alma ve canlı operasyon.
-Satır satır kod değil, sonuç denetlerim — geçen testler, temiz build'ler, App Store
-onayları, canlı ödemeler, gerçek kullanıcılar. Kalite çıtamı geçmeyen hiçbir şey
-yayına çıkmaz.
-
-Tek operatör, bir AI ekibi, 34 yayınlanmış ürün. Bu profilin asıl gösterdiği beceri bu.
-
-### Corvus Tech'in ekibi
-
-Corvus Tech tek kişilik bir gösteri değil — kendi kurduğum bir ekiple çalışır:
-her biri tek bir iş için işe alınmış ve o işten sorumlu tutulan uzman AI ajanları.
-
-| | |
-|---|---|
-| **QA Büyükustası** | Bir iOS uygulamasının bütün kullanıcı akışlarını haritalar ve yayına gitmeden önce simülatörde dokunuş dokunuş test eder. |
-| **Motion Yönetmeni** | Web, iOS ve videodaki hareket kimliğinin sahibi — sebepsiz hiçbir şey animasyon almaz. |
-| **Büyüme Ortağı** | Her özelliği startup matematiğiyle sorgular: MVP kapsamı, burn rate, LTV–CAC dengesi. Rakam yoksa toplantı da yok. |
-| **Tasarım Hattı** | Strateji, metin, arayüz, görsel yönetim, kod — beş aşamalı zincir; tek satırlık brief'i yayına hazır bölüme çevirir. |
-
-İş tanımlarını ben yazarım, brief'i ben veririm, çıktıyı ben denetlerim — ve
-yetersiz kalanı değiştiririm. Her ekip gibi; sadece daha iyi dokümante edilmiş.
-
-### Pratikte yapay zekâ
-
-"AI kullanıyorum" değil — modelin etrafındaki düzeneği kuruyorum.
-
-| | |
-|---|---|
-| **Çok ajanlı sistemler** | Bir kararı tartışıp önerinin dibine kadar giden uzman ajan kurulları. Her ajanın kendi görev tanımı, kendi araçları ve kendi puanlaması var; aralarındaki anlaşmazlık örtülecek bir kusur değil, işin ta kendisi. |
-| **MCP sunucuları** | Modelin gerçek yazılımı *kullanmasını* sağlayan araç sunucuları — grafik, derleme, tasarım. "Yapabilseydim şunu yapardım" demesi değil, yapması. |
-| **Ajan iş akışları** | Kontrol noktalı, yeniden denemeli ve yeniden başlatmaya dayanan uzun soluklu hatlar. Araştır → yaz → doğrula → yayınla; başında kimse olmadan, saatli. |
-| **Prompt mühendisliği** | Prompt bir büyü değil, bir şartname: açık sözleşmeler, yapılandırılmış çıktı, karşı-savunma doğrulama turları ve "iyi hissettirdi" yerine ölçüm. |
-| **Tarayıcı ve masaüstü otomasyonu** | API olmadığında gerçek uygulamaları CDP ve yerel betiklerle sürmek — aşağıdaki LinkedIn temizleyici gibi. |
-
-### Yayında
-
-| | |
-|---|---|
-| [CVtoapply](https://cvtoapply.co) | CV'ni başvurduğun ilana göre yeniden yazar ve işe alım sistemlerinin bakacağı gözle puanlar. Web + [iOS](https://apps.apple.com/tr/app/cvtoapply-ats-resume-score/id6790497658). |
-| [corvus-tech.co](https://corvus-tech.co/tr) | Stüdyonun kendisi — Türkçe ve İngilizce, 3D portfolyo. |
-
-### Açık kaynak
-
-| | |
-|---|---|
-| [linkedin-post-cleaner](https://github.com/ekremmertu/linkedin-post-cleaner) | LinkedIn'deki kendi gönderilerini topluca siler ve listenin gerçekten sonuna kadar gider. Diğer araçlar ~500'de duruyor çünkü akış sessizce beslemeyi bırakıyor; bu, sayfayı yenileyip kaldığı yerden devam ediyor. 1200'den fazla gerçek silmeyle denendi. |
-| [corvus-site](https://github.com/ekremmertu/corvus-site) | [corvus-tech.co](https://corvus-tech.co/tr)'nun kaynak kodu — Next.js ve Three.js ile kurulmuş iki dilli 3D portfolyo. |
-
-### Teknolojiler
-
-Swift 6 · SwiftUI · StoreKit 2 · Next.js · TypeScript · Supabase · FastAPI · Python · Claude API · MCP · Pine Script · Three.js
+**Stack:** Swift · SwiftUI · Next.js · TypeScript · Supabase · Python · FastAPI · Claude · MCP · Playwright
