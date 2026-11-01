@@ -2,7 +2,7 @@
 
 **Ürünleri AI ajanlarını yöneterek fikirden canlıya taşıyorum, sonucu da bir operasyon yöneticisi gibi doğruluyorum.**
 
-İstanbul'da [Corvus Tech](https://corvus-tech.co)'in kurucusuyum. Geçmişim ticari operasyon ve tedarik zinciri. Bu yüzden işe "iş ne istiyor, işe yaradığını nasıl anlayacağız?" sorusuyla başlarım.
+İstanbul'da [Corvus Tech](https://corvus-tech.co)'in kurucu ortağıyım. Geçmişim ticari operasyon ve tedarik zinciri. Bu yüzden işe "iş ne istiyor, işe yaradığını nasıl anlayacağız?" sorusuyla başlarım.
 
 [Portfolyo](https://corvus-tech.co/tr) · [English](README.md)
 

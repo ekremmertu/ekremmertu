@@ -2,7 +2,7 @@
 
 **I take products from idea to live release by directing AI agents, then I verify the result like an operator.**
 
-Founder of [Corvus Tech](https://corvus-tech.co), Istanbul. My background is commercial operations and supply chain, so I start with what the business needs and how we will know it worked.
+Co-founder of [Corvus Tech](https://corvus-tech.co), Istanbul. My background is commercial operations and supply chain, so I start with what the business needs and how we will know it worked.
 
 [Portfolio](https://corvus-tech.co) · [Türkçe](README.tr.md)
 
